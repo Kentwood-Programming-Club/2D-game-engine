@@ -1,6 +1,11 @@
 # 2D-game-engine
 https://vscode.dev/github/Kentwood-Programming-Club/2D-game-engine
 
+# [Programming Club Discord](https://discord.gg/4aZExVeuhH)
+- General talk
+- Programming help
+- Announcements
+
 ## Good Resources to learn Javascript
 ### W3 Schools
 https://w3schools.com
