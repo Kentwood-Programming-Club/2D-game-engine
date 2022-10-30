@@ -26,4 +26,4 @@ You can get VSCode from [here](https://code.visualstudio.com/sha/download?build=
 
 You can install the Live Server extension from the extensions panel to view our game (or click this link)
 
-vscode:extension/ritwickdey.LiveServer
+vscode://extension/ritwickdey.LiveServer
