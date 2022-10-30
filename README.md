@@ -21,6 +21,7 @@ To update your workspace wil changes others have made, use `pull`.
 
 Its a good idea to have VSCode and git installed on your computer.
 you can get Git from [here](https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe)
+
 You can get VSCode from [here](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
 You can install the <a href="vscode:extension/ritwickdey.LiveServer">Live Server</a> extension from the extensions panel to view our game.
