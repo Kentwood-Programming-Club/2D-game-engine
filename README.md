@@ -24,6 +24,6 @@ you can get Git from [here](https://github.com/git-for-windows/git/releases/down
 
 You can get VSCode from [here](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
-You can install the Live Server extension from the extensions panel to view our game (or click this link)
+You can install the Live Server extension from the extensions panel to view our game (or open this link)
 
 vscode://extension/ritwickdey.LiveServer
