@@ -31,3 +31,4 @@ export function draw() {
     // here we need to make a 2d loop to go through each position in the map and draw it
     // we can use the ctx.fillRect() method
 }
+// vlads comment
