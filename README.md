@@ -20,6 +20,13 @@ On the sidebar you should see an icon
 
 This is where you can update changes via Git.
 
+### to use Git from vscode desktop, you must run the commands:
+```bash
+git config --global user.name "your name"
+git config --global user.email "email@example.com"
+```
+this will tell git what email to try to sign in with.
+
 To sync all the file changes for everyone, you can use `commit and push`. To commit you must first `stage` all the changes (you can pick and choose, say youre not ready to commit some files)
 
 To update your workspace wil changes others have made, use `pull`.
